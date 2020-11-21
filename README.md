@@ -44,7 +44,6 @@ $ # Wait for passing CI...
 $ git switch master
 $ git pull
 $ yarn version
-$ npm run build
 $ npm publish
 $ git push --follow-tags
 ```
