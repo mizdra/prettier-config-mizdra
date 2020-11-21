@@ -17,5 +17,13 @@
   ],
   "files": [
     "index.js"
-  ]
+  ],
+  "peerDependencies": {
+    "prettier": ">=1.17.0"
+  },
+  "peerDependenciesMeta": {
+    "prettier": {
+      "autoinstall": true
+    }
+  }
 }
