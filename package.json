@@ -1,6 +1,6 @@
 {
   "name": "@mizdra/prettier-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shareable Prettier Config for @mizdra",
   "main": "index.js",
   "repository": "ssh://git@github.com/mizdra/prettier-config.git",
