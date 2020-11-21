@@ -1,5 +1,5 @@
 {
-  "name": "@mizdra/prettier-config",
+  "name": "@mizdra/prettier-config-mizdra",
   "version": "0.1.0",
   "description": "Shareable Prettier Config for @mizdra",
   "main": "index.js",
