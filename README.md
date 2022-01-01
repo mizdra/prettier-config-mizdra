@@ -41,7 +41,7 @@ module.exports = {
 
 ```console
 $ # Wait for passing CI...
-$ git switch master
+$ git switch main
 $ git pull
 $ yarn version
 $ npm publish
