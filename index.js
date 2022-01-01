@@ -19,9 +19,6 @@ module.exports = {
   bracketSpacing: true,
   // 可視性のため、JSX や HTML の `>` は改行せずにタグ名やプロパティと同じ行に挿入する
   bracketSameLine: true,
-  // `jsxBracketSameLine` は prettier 2.4 で `bracketSameLine` に置き換えられ非推奨になったが、
-  // prettier 2.4 以前を利用しているユーザのために true にしておく。
-  jsxBracketSameLine: true,
   // 引数を括弧を付けること無く増やせるように & 統一性を保つため、アロー関数の引数リストの括弧は必ず付ける
   arrowParens: 'always',
 
