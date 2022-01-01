@@ -1,4 +1,6 @@
+import config from './';
+
 // self-hosting
-module.exports = {
-  ...require('./'),
+export default {
+  ...config,
 };
