@@ -21,6 +21,7 @@
   "files": [
     "index.js"
   ],
+  "packageManager": "pnpm@7.1.7",
   "peerDependencies": {
     "prettier": ">=2.4.0"
   },
