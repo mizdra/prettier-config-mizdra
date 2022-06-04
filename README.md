@@ -5,7 +5,7 @@ Shareable Prettier Config for @mizdra
 ## Install
 
 ```bash
-yarn add -D @mizdra/prettier-config-mizdra prettier
+pnpm add -D @mizdra/prettier-config-mizdra prettier
 ```
 
 ## Usage
@@ -35,15 +35,4 @@ module.exports = {
   // configuration in `.prettierrc.js`
   semi: false,
 };
-```
-
-## How to release (for Contributor)
-
-```console
-$ # Wait for passing CI...
-$ git switch main
-$ git pull
-$ yarn version
-$ npm publish
-$ git push --follow-tags
 ```
