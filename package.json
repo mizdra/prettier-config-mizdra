@@ -7,7 +7,7 @@
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "check": "prettier --check ."
+    "lint": "prettier --check ."
   },
   "private": false,
   "publishConfig": {
