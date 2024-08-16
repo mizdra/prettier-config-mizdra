@@ -1,6 +1,6 @@
 {
   "name": "@mizdra/prettier-config-mizdra",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Shareable Prettier Config for @mizdra",
   "exports": {
     ".": "./index.js"
