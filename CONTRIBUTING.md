@@ -9,10 +9,10 @@ This is a guide for contributors.
   git switch main && git pull
   ```
 - ```bash
-  pnpm version
+  npm version
   ```
 - ```bash
-  pnpm publish
+  npm publish
   ```
 - ```bash
   git push --follow-tags
