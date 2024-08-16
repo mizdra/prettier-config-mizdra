@@ -1,4 +1,4 @@
+import config from './index.js';
+
 // self-hosting
-module.exports = {
-  ...require('./'),
-};
+export default config;
