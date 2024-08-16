@@ -36,4 +36,5 @@ export default {
   // 標準的な lf を使う
   endOfLine: 'lf',
   // embeddedLanguageFormatting: 'auto', // respect default
+  experimentalTernaries: true,
 };
