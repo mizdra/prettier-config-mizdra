@@ -23,7 +23,7 @@
     "index.js"
   ],
   "peerDependencies": {
-    "prettier": ">=2.4.0"
+    "prettier": ">=3.0.0"
   },
   "peerDependenciesMeta": {
     "prettier": {
