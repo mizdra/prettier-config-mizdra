@@ -1,6 +1,4 @@
-import config from './';
+import config from './index.js';
 
 // self-hosting
-export default {
-  ...config,
-};
+export default config;
