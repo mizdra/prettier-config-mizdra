@@ -2,7 +2,9 @@
   "name": "@mizdra/prettier-config-mizdra",
   "version": "1.0.0",
   "description": "Shareable Prettier Config for @mizdra",
-  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
   "repository": "ssh://git@github.com/mizdra/prettier-config.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
